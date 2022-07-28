@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background-color: aliceblue;
+    place-content: center;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    margin-top: 100px;
+}
+.resultado{
+    margin-top: 50px;
+}
